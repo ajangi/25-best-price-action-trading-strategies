@@ -2,4 +2,4 @@
 
 ## Evening Start - Doji Reversal
 - multi-timeframe price action strategy
-![alt text](./plots/Figure_1.png)
+![Doji Reversal](https://github.com/ajangi/25-best-price-action-trading-strategies/blob/master/plots/Figure_1.png?raw=true)
