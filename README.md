@@ -2,4 +2,4 @@
 
 ## Evening Start - Doji Reversal
 - multi-timeframe price action strategy
-![Doji Reversal](./plots/Figure_1.png?raw=true)
+<img alt="Doji Reversal" src="./plots/Figure_1.png" width="150" />
